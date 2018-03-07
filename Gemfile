@@ -57,3 +57,4 @@ gem 'pg', group: :production
 gem 'carrierwave'
 gem 'fog', '~> 1.42'
 gem 'fog-aws'
+gem 'figaro'
