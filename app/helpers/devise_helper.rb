@@ -17,9 +17,6 @@ module DeviseHelper
         HTML
         
         html.html_safe
-                
-            
-                
-        
+
     end       
 end
